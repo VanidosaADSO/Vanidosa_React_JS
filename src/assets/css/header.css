@@ -1,0 +1,31 @@
+.header {
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #FFFFFF;
+    z-index: 1;
+}
+
+.content-logo {
+    width: 210px;
+    height: 60px;
+    background-color: #212F3D;
+}
+
+.logo-font {
+    width: 80px;
+}
+
+.content-img-account {
+    width: calc(100% - 210px);
+}
+
+.img-account {
+    width: 40px;
+    height: 40px;
+    margin-right: 25px;
+}
+
+
